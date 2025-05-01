@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">KasimHocaOdev</string>
+    <string name="baslik1">Sign in for continue</string>
+    <string name="baslik2">Sign in to your account to access all features</string>
+    <string name="email">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="enterEmail">Enter full email adress</string>
+    <string name="enterPassword">Create password</string>
+    <string name="or">or</string>
+    <string name="account">"Don't" have account?</string>
+    <string name="signUp">Sign Up</string>
+    <string name="button">Sign In</string>
+
+
 </resources>

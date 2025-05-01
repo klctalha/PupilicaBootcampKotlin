@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KasimHocaOdev</string>
+    <string name="baslik1">Devam Etmek İçin Oturum Açın</string>
+    <string name="baslik2">Tüm Özelliklere Erişmek İçin Hesabınıza Giriş Yapın</string>
+    <string name="email">Email Adres</string>
+    <string name="Password">Şifre</string>
+    <string name="enterEmail">Tam E-posta Adresini Girin</string>
+    <string name="enterPassword">Şifre Oluştur</string>
+    <string name="or">veya</string>
+    <string name="account">Hesabınız Yok Mu?</string>
+    <string name="signUp">Kayıt Ol</string>
+    <string name="button">Giriş Yap</string>
+</resources>

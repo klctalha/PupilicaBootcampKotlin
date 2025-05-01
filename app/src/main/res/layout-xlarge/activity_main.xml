@@ -147,11 +147,9 @@
         android:ems="10"
         android:hint="@string/enterEmail"
         android:inputType="text"
-        android:textColor="@color/yaziRenk2"
         android:padding="10dp"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
@@ -164,7 +162,6 @@
         android:ems="10"
         android:hint="@string/enterPassword"
         android:inputType="text"
-        android:textColor="@color/yaziRenk2"
         android:padding="10dp"
         android:textSize="12sp"
         app:layout_constraintEnd_toEndOf="@+id/editTextText"
